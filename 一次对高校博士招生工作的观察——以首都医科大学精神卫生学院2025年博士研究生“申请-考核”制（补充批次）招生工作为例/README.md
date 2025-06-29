@@ -2,3 +2,11 @@
 <img src="https://img.shields.io/badge/版本-1.0.0-blue" alt="版本" />
 <img src="https://img.shields.io/badge/开始时间-2025年6月13日-orange" alt="开始时间" />
 <img src="https://img.shields.io/badge/结束时间-2025年6月16日-green" alt="结束时间" />
+本文档共包含7个章节：<br>
+第1章 至关重要的立意
+第2章 可能无助于阅读本文的背景信息
+第3章 招生信息发布环节中出现的问题和疑问
+第4章 资格审核和考核通知环节中出现的问题
+第5章 考核环节中出现的问题
+第6章 考核后（主要是结果公示）环节中出现的问题
+第7章 其他可能与本次招生无关的问题
